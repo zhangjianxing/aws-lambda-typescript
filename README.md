@@ -25,6 +25,8 @@ When you have zip file, you can create your lambda function. It can be done by A
 
 Navigate to lambda functions, then click `Create Function`. Following the steps and upload `lambda.zip`.
 
-Do not forget add Layers that you just uploaded.
+Add Layers that you just uploaded.
+
+# Thank you
 
  That's all :) now you can enjoy playing with lambda written in TypeScript
